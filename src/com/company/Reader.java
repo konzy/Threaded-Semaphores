@@ -5,7 +5,8 @@ import java.util.concurrent.Semaphore;
 import static com.company.ThreadTest.MAX_WRITERS;
 
 /**
- * Created by konzy on 4/28/2017.
+ * Brian Konzman
+ * Daniel Slone
  */
 public class Reader extends Thread {
     private Semaphore rMutex;

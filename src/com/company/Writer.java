@@ -6,7 +6,8 @@ import static com.company.ThreadTest.MAX_READERS;
 
 
 /**
- * Created by konzy on 4/28/2017.
+ * Brian Konzman
+ * Daniel Slone
  */
 
 public class Writer extends Thread {

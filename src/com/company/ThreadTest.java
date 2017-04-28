@@ -3,7 +3,8 @@ package com.company;
 import java.util.concurrent.Semaphore;
 
 /**
- * Created by konzy on 4/28/2017.
+ * Brian Konzman
+ * Daniel Slone
  */
 public class ThreadTest {
 
